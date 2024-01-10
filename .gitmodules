@@ -1,0 +1,6 @@
+[submodule "OpenEclass-Computer-Security-2023"]
+	path = OpenEclass-Computer-Security-2023
+	url = https://github.com/sdi1800218/OpenEclass-Computer-Security-2023
+[submodule "CaptureTheFlag-Computer-Security-2023"]
+	path = CaptureTheFlag-Computer-Security-2023
+	url = https://github.com/sdi1800218/CaptureTheFlag-Computer-Security-2023
